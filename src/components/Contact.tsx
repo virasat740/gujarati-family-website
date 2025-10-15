@@ -32,7 +32,7 @@ export function Contact() {
                 <label className="text-gray-700 mb-2 block">ફોન નંબર / Phone</label>
                 <Input 
                   type="tel"
-                  placeholder="+91 98765 43210"
+                  placeholder="+91 95129 20785"
                   className="border-orange-200 focus:border-orange-500"
                 />
               </div>
@@ -78,8 +78,7 @@ export function Contact() {
                 </div>
                 <div>
                   <h4 className="text-orange-900 mb-2">ફોન કરો / Call Us</h4>
-                  <p className="text-gray-600">+91 98765 43210</p>
-                  <p className="text-gray-600">+91 87654 32109</p>
+                  <p className="text-gray-600">+91 95129 20785</p>
                 </div>
               </div>
 
@@ -101,8 +100,8 @@ export function Contact() {
                 <div>
                   <h4 className="text-orange-900 mb-2">સરનામું / Address</h4>
                   <p className="text-gray-600">
-                    123, સરદાર પટેલ માર્ગ,<br />
-                    નવરંગપુરા, અમદાવાદ - 380009,<br />
+                    123, રધુવીર સોસાયટી,<br />
+                    અમરોલી, સુરત- 394107,<br />
                     ગુજરાત, ભારત
                   </p>
                 </div>

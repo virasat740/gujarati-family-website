@@ -76,10 +76,10 @@ export function HowItWorks() {
             <p className="text-orange-900 mb-2">તૈયાર છો? / Ready to start?</p>
             <p className="text-gray-600 mb-6">આજે જ અમને સંપર્ક કરો અને તમારા સ્વપ્નનો સમારંભ સાકાર કરો</p>
             <a
-              href="tel:+919876543210"
+              href="tel:+919512920785"
               className="bg-gradient-to-r from-orange-600 to-red-600 hover:from-orange-700 hover:to-red-700 text-white px-8 py-4 rounded-full inline-block transition-all"
             >
-              📞 Call Now: +91 98765 43210
+              📞 Call Now: +91 95129 20785
             </a>
           </div>
         </div>

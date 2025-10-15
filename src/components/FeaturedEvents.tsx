@@ -67,9 +67,15 @@ export function FeaturedEvents() {
               </div>
             </div>
 
-            <Button className="bg-gradient-to-r from-orange-600 to-red-600 hover:from-orange-700 hover:to-red-700 text-white px-8 py-6 rounded-full">
+            {/* <Button className="bg-gradient-to-r from-orange-600 to-red-600 hover:from-orange-700 hover:to-red-700 text-white px-8 py-6 rounded-full">
               Get Free Consultation
-            </Button>
+            </Button> */}
+            <a
+              href="#contact"
+              className="bg-gradient-to-r from-orange-600 to-red-600 hover:from-orange-700 hover:to-red-700 text-white px-8 py-3 rounded-full inline-block transition-all"
+            >
+              Get Free Consultation
+            </a>
           </div>
         </div>
       </div>

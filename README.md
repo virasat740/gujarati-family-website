@@ -1,7 +1,7 @@
 
-  # Gujarati Family Website Design
+  # Shubh Samarambh
 
-  This is a code bundle for Gujarati Family Website Design. The original project is available at https://www.figma.com/design/ZPusnKBcHHEDj5SLuE289A/Gujarati-Family-Website-Design.
+  This is a code bundle for Shubh Samarambh. The original project is available at https://www.figma.com/design/ZPusnKBcHHEDj5SLuE289A/Gujarati-Family-Website-Design.
 
   ## Running the code
 

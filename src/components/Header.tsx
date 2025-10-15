@@ -23,9 +23,9 @@ export function Header() {
         </nav>
 
         <div className="flex items-center gap-4">
-          <a href="tel:+919876543210" className="hidden md:flex items-center gap-2 bg-white/20 px-4 py-2 rounded-full hover:bg-white/30 transition-colors">
+          <a href="tel:+919512920785" className="hidden md:flex items-center gap-2 bg-white/20 px-4 py-2 rounded-full hover:bg-white/30 transition-colors">
             <Phone className="w-4 h-4" />
-            <span>+91 98765 43210</span>
+            <span>+91 95129 20785</span>
           </a>
           <Button variant="ghost" size="icon" className="md:hidden text-white hover:bg-white/20">
             <Menu className="w-6 h-6" />

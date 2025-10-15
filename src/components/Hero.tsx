@@ -31,28 +31,35 @@ export function Hero() {
             તમારા સ્વપ્નનો કાર્યક્રમ સાકાર કરો.
           </p>
 
-          <div className="flex flex-wrap gap-4">
-            <Button className="bg-gradient-to-r from-orange-600 to-red-600 hover:from-orange-700 hover:to-red-700 text-white px-8 py-6 rounded-full">
+          <div className="flex flex-wrap gap-4 hero-btn">
+            {/* <Button className="bg-gradient-to-r from-orange-600 to-red-600 hover:from-orange-700 hover:to-red-700 text-white px-8 py-6 rounded-full">
               Book Your Event
-            </Button>
-            <Button variant="outline" className="border-2 border-orange-600 text-orange-600 hover:bg-orange-50 px-8 py-6 rounded-full">
+            </Button> */}
+            {/* <Button variant="outline" className="border-2 border-orange-600 text-orange-600 hover:bg-orange-50 px-8 py-6 rounded-full">
               View Gallery
-            </Button>
+            </Button> */}
+            <a
+              href="#contact"
+              className="bg-gradient-to-r from-orange-600 to-red-600 hover:from-orange-700 hover:to-red-700 text-white px-8 py-3 rounded-full inline-block transition-all"
+            >
+              Book Your Event
+            </a>
+            <a href="#gallery" className="btn-gallery">View Gallery</a>
           </div>
 
           <div className="flex items-center gap-8 pt-4">
             <div>
-              <div className="text-orange-600">500+</div>
+              <div className="text-orange-600">300+</div>
               <p className="text-gray-600 text-sm">Happy Families</p>
             </div>
             <div className="w-px h-12 bg-orange-300" />
             <div>
-              <div className="text-orange-600">15+</div>
+              <div className="text-orange-600">6+</div>
               <p className="text-gray-600 text-sm">Years Experience</p>
             </div>
             <div className="w-px h-12 bg-orange-300" />
             <div>
-              <div className="text-orange-600">1000+</div>
+              <div className="text-orange-600">500+</div>
               <p className="text-gray-600 text-sm">Events Planned</p>
             </div>
           </div>

@@ -57,5 +57,5 @@
       port: 3000,
       open: true,
     },
-    base: '/gujarati-family-website/',  // ← Your repo name – crucial for assets/links
+    base: '/shubh-samarambh/',  // ← Your repo name – crucial for assets/links
   });
